@@ -1,6 +1,7 @@
-module github.com/mikefarah/yq/v3
+module github.com/coryrc/yq/v3
 
 require (
+	github.com/mikefarah/yq/v3 v3.0.0-20200202231348-699fce9da43f
 	github.com/pkg/errors v0.8.1
 	github.com/spf13/cobra v0.0.5
 	golang.org/x/tools v0.0.0-20191213221258-04c2e8eff935 // indirect
