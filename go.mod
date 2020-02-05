@@ -10,3 +10,5 @@ require (
 )
 
 go 1.13
+
+replace github.com/mikefarah/yq/v3 => github.com/coryrc/yq/v3
